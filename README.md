@@ -14,7 +14,7 @@ Special thanks to Vimal daga Sir.
 
 Video list :
 
-1. First :   https://youtu.be/BAMkQqelb4A
+1. First :   https://youtu.be/BAMkQqelb4A   (This is only available on Youtube not in this project ,rest are present)
 2. Second:   https://youtu.be/BZEU-CXwL_E
 3. Third :   https://youtu.be/nPI-jrGiXsw
 4. Fourth :  https://youtu.be/dvDWuTxQzsc
