@@ -23,7 +23,7 @@ Special thanks to Vimal daga Sir.
 1. Redhat OS with intially no setup. Can be used just after installing Os.
 2. Check redhat has python 3 already or not (usually have python 3)
 
-# HOw to run this project :
+# How to run this project :
 
 1. Down load all file (not recommended)
 2. Must download Docker_Project_Basic_InstallationAnd_WP_Site_Maker -> Basic_installation_and _Wordpress_Site_Maker.tar.xz file.
@@ -33,12 +33,12 @@ Special thanks to Vimal daga Sir.
     python3 dockerPro.py
 6. Now enjoy project or visit helping video.
 
-#About the basic setup of wordpress site:
+# About the basic setup of wordpress site:
 
-  > database user name : kush
-  > database root password : ks
-  > database password : redhat
-  > database name : mydb
+  >  database user name : kush
+  >  database root password : ks
+  >  database password : redhat
+  >  database name : mydb
 
 # Helping Video list links are provided below :
 
