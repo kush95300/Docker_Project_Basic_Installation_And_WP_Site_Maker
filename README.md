@@ -35,10 +35,10 @@ Special thanks to Vimal daga Sir.
 
 # About the basic setup of wordpress site:
 
-  >  database user name : kush
-  >  database root password : ks
-  >  database password : redhat
-  >  database name : mydb
+      >  database user name : kush
+      >  database root password : ks
+      >  database password : redhat
+      >  database name : mydb
 
 # Helping Video list links are provided below :
 
